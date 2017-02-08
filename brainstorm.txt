@@ -1,0 +1,7 @@
+Western Music
+
+UI: Maybe also an XML editor?
+
+After User input: in form of "nodes"?
+Linking in form of arrow.
+Maybe have arrow grayed after forming (to not crowd the work area)

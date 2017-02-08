@@ -1,0 +1,5 @@
+Create a pdf to music xml convertor. Western music
+Upload a pdf.
+Initially (as a proof-of-concept) the user tells the software where the elements are located, what they are, and what they are related to.
+Ultimately some form of OMR can do this.
+With this information, the software will produce a music xml.

@@ -1,0 +1,11 @@
+4/4 treble
+1 measure
+middle C
+
+User procedure:
+click on bottom line of staff. Set as staff lines.
+click on treble clef. Set as treble clef. Link to Staff.
+click on 4/4 time. Set as time signature. Set as 4/4. Link to Staff.
+Click on barline. Set as barline. Link to Staff.
+(measure? - time sig to barline; barline to barline)
+click on C note. Set as note. Set as whole note and middle C. Link to Staff.

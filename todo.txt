@@ -1,0 +1,25 @@
+Version 0: barebones working version [Proof of Concept]
+
+Stage 0: planning
+Plan class heirarchy (model closely to musicxml?)
+Plan User interaction and UI
+
+[POC 1]
+Stage 1: writing basic XML code (cover basic cases)
+Classes
+
+Stage 2: writing basic UI
+UI
+[/POC 1]
+
+Stage 3: Extension (more cases)
+
+
+Version 1: Some automation
+Automatically detect where staves are.
+
+Automatically detect where element belongs (link to staff, link to (measure?) note)
+
+Automatically detect note pitch.
+
+Version 2: OMR

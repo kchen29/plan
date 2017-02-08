@@ -1,0 +1,11 @@
+Interactive PDF to MXL
+1. load pdf
+
+2. allow user to locate informations (staff lines, barlines, where notes are (values and articulations), time sigs,
+key sigs, clef, etc.)
+  - point and click w/ modes?
+  - point and type shortcut to signify type
+
+(2.1. display information (some sort of tag thing?))
+
+3. using information, create mxl.
